@@ -1,0 +1,20 @@
+{
+  "recommendations": [
+    "ms-python.python",
+    "ms-python.isort",
+    "ms-python.black-formatter",
+    "ms-python.pylint",
+    "visualstudioexptteam.vscodeintellicode",
+    "github.vscode-pull-request-github",
+    "github.remotehub",
+    "eamodio.gitlens",
+    "bierner.github-markdown-preview",
+    "ms-vsliveshare.vsliveshare-pack",
+    "tamasfe.even-better-toml",
+    "njpwerner.autodocstring",
+    "cschleiden.vscode-github-actions",
+    "kisstkondoros.vscode-gutter-preview",
+    "hediet.debug-visualizer",
+    "MS-SarifVSCode.sarif-viewer"
+  ]
+}
